@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+}
+
+.nm, .sm, .mm, .ab, .bc, .cd {
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.container {
+    padding: 20px;
+}
